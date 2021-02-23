@@ -14,7 +14,7 @@ from sklearn.decomposition import PCA
 st.set_page_config("Dataset Analysis")
 st.sidebar.markdown(""" **Developed by** [M.Arslan Akram](https://www.linkedin.com/in/arslanakram1/)
     """)
-st.sidebar.markdown(""" **Source Code ** [Github](https://www.linkedin.com/in/arslanakram1/)
+st.sidebar.markdown(""" **Source Code ** [Github](https://github.com/MuhammadArslanAkram/auto_EDA)
     """)
 st.sidebar.markdown(""" # **Step 1: Upload File**""")
 dt=st.sidebar.file_uploader(label="",type="CSV")
